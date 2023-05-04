@@ -1,0 +1,80 @@
+2023.05.04 15:17:39 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA' for client Visual Studio Code 1.77.3.
+mai 04, 2023 3:17:39 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAÇÕES: Flyway Community Edition 9.16.3 by Redgate
+mai 04, 2023 3:17:39 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAÇÕES: See release notes here: https://rd.gt/416ObMi
+mai 04, 2023 3:17:39 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAÇÕES: 
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAÇÕES: Database: jdbc:h2:file:C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\.metals\metals (H2 2.1)
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFORMAÇÕES: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAÇÕES: Successfully validated 4 migrations (execution time 00:00.025s)
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFORMAÇÕES: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAÇÕES: Current version of schema "PUBLIC": << Empty Schema >>
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAÇÕES: Migrating schema "PUBLIC" to version "1 - Create tables"
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAÇÕES: Migrating schema "PUBLIC" to version "2 - Server discovery"
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAÇÕES: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAÇÕES: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+mai 04, 2023 3:17:40 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAÇÕES: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.061s)
+2023.05.04 15:17:40 INFO  time: initialize in 1.06s
+2023.05.04 15:17:40 WARN  Build server is not auto-connectable.
+2023.05.04 15:17:40 WARN  no build tool detected in workspace 'C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.05.04 15:17:41 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\App.java
+2023.05.04 15:18:06 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:18:10 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:18:43 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:19:25 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:20:36 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:20:45 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:21:17 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:21:50 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:22:45 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:22:47 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\DNA.java
+2023.05.04 15:22:58 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\DNA.java
+2023.05.04 15:23:00 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:23:14 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:23:59 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\dnaString.java
+2023.05.04 15:23:59 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\dnaString.java
+2023.05.04 15:24:13 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+mai 04, 2023 3:24:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 390
+2023.05.04 15:24:31 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:24:32 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\dnaString.java
+2023.05.04 15:24:41 WARN  Using indexes to guess the definition of dnaString
+2023.05.04 15:24:42 WARN  Using indexes to guess the definition of main
+mai 04, 2023 3:24:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 415
+2023.05.04 15:24:46 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\dnaString.java
+2023.05.04 15:25:03 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:25:14 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:26:15 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\dnaString.java
+2023.05.04 15:26:26 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\dnaString.java
+2023.05.04 15:31:55 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:31:59 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:34:06 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:34:13 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:35:12 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:35:21 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:35:33 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:36:58 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\Main.java
+2023.05.04 15:37:07 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\Main.java
+2023.05.04 15:37:07 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:37:31 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\Main.java
+2023.05.04 15:37:31 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:37:40 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\Main.java
+2023.05.04 15:37:46 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\Main.java
+2023.05.04 15:39:48 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:39:49 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:39:58 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
+2023.05.04 15:40:38 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\Main.java
+2023.05.04 15:40:44 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\Main.java
+2023.05.04 15:40:44 WARN  no build target for: C:\Users\carva\OneDrive\Área de Trabalho\POO - projeto\StringDNA\src\StringDNA.java
